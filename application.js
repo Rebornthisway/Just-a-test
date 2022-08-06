@@ -1,2 +1,3 @@
 console.log('some string');
-console.log('Other sting');
+console.log('First coder read it');
+
