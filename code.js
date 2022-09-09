@@ -1,1 +1,2 @@
-console.log('Second coder')
+console.log('Second coder');
+just write smthing)
