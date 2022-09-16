@@ -10,3 +10,7 @@ function basicOp(operation, value1, value2)
   if(operation == '/')return value1 / value2;
 }
 
+function digitize(n) {
+    return String(n).split('').map(Number).reverse()
+
+
