@@ -13,4 +13,7 @@ function basicOp(operation, value1, value2)
 function digitize(n) {
     return String(n).split('').map(Number).reverse()
 
+let stringToNumber = function(str){
+  return parseInt(str);
+}
 
